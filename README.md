@@ -40,7 +40,7 @@
       + MDN ES5: https://people.mozilla.org/~jorendorff/es5.1-final.html
       + 颜海镜ES5: http://yanhaijing.com/es5/#book
       + 阮一峰Javascript教程: http://javascript.ruanyifeng.com/
-      + 阮一峰ES6: es6.ruanyifeng.com
+      + 阮一峰ES6: http://es6.ruanyifeng.com
       + HTML当前标准:https://html.spec.whatwg.org/multipage/
       + Html5标准:http://w3c.github.io/html/
       + css标准: https://www.w3.org/Style/CSS/
