@@ -1,5 +1,6 @@
 # itshare
-持续更新,免费的IT计算机学习资源分享,包括IT书籍,社区,课程,解决方案,牛人等等
+### 持续更新,免费的IT计算机学习资源分享,包括IT书籍,社区,课程,解决方案,牛人等等
+### 也欢迎各位兄弟反馈和提供资源,我们就是要Share!
 
 ## 目录
   - 免费IT学习社区
@@ -27,7 +28,7 @@
   - Web前端
     + W3cplus: www.w3cplus.com
     + W3cfuns: www.w3cfuns.com
-    + DIV.io: div.io
+    + DIV.io: http://div.io
     + CNode社区: cnodejs.org
     + 前端乱炖: www.html-js.com
     + 极客标签: www.gbtags.com
