@@ -1,6 +1,6 @@
 # itshare 
-### 持续更新,免费的IT计算机学习资源分享,包括IT书籍,社区,课程,解决方案,牛人等等
-### 也欢迎各位兄弟反馈和提供资源,我们就是要Share!
+### 自主学习才是硬道理!
+
 
 ## 目录
   - 免费IT学习社区
@@ -18,6 +18,10 @@
     + 看云文档: http://www.kancloud.cn
     + 博客园:http://www.cnblogs.com/
     + CSDN: http://www.csdn.net/
+    + 菜鸟教程: http://runoob.com/
+    + 简书程序员专题: http://www.jianshu.com/collection/NEt52a
+    + 开发者头条: http://toutiao.io/
+    + 掘金: http://gold.xitu.io/explore/all
     
   - 各大名校的公开课
     + 网易云课堂大学计算机课程: http://study.163.com/curricula/cs.htm
@@ -25,6 +29,26 @@
     + 哈佛大学公开课-计算机科学cs50: http://open.163.com/special/opencourse/cs50.html
     + 麻省理工学院公开课-计算机科学及编程导论: http://open.163.com/special/opencourse/bianchengdaolun.html
     
+  - 学习路线和方法
+    + 编程入门指南: https://zhuanlan.zhihu.com/p/19959253
+
+  - 微信公众号/订阅号
+    + 菜鸟教程: runoob
+    + 程序人生: coder_life
+    + 前端大全: FrontDev
+    + 前端早读课: FeZaoDuKe
+    + 算法爱好者: AlgorithmFans
+    + 算法与数学之美: MathAndAlgorithm
+    + InfoQ: infoqchina
+    + Node地下铁: Node-Subway
+    + SegmentFault
+    + 数据库开发: DBDevs
+    + 我是架构师: Architect-msup
+    + 云计算头条: chinacloudnj
+    + W3cplus: w3cplus_12
+    + 架构师: JiaGouX
+    + Docker: dockerone
+  
   - Web前端
     + W3cplus: http://www.w3cplus.com
     + W3cfuns: http://www.w3cfuns.com
@@ -46,3 +70,7 @@
       + Html5标准:http://w3c.github.io/html/
       + css标准: https://www.w3.org/Style/CSS/
       + W3CHelp: http://w3help.org/zh-cn/kb/
+      
+
+ 
+
