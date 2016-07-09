@@ -27,6 +27,7 @@
   - 各大名校的公开课
     + 网易云课堂大学计算机课程: http://study.163.com/curricula/cs.htm
     + 学堂在线计算机课程: http://www.xuetangx.com/courses?cid=117
+    + Coursera: https://www.coursera.org/
     + 哈佛大学公开课-计算机科学cs50: http://open.163.com/special/opencourse/cs50.html
     + 麻省理工学院公开课-计算机科学及编程导论: http://open.163.com/special/opencourse/bianchengdaolun.html
     
