@@ -7,6 +7,7 @@
     + 慕课网: http://www.imooc.com
     + 极客学院: http://www.jikexueyuan.com
     + 麦子学院: http://www.maiziedu.com
+    + 计蒜客: https://www.jisuanke.com/course
     + FreeCodeCamp: https://www.freecodecamp.com/
     + FreeCodeCamp中文: https://www.freecodecamp.cn/
     + 汇智网: http://www.hubwiz.com
