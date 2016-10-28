@@ -23,6 +23,7 @@
     + 简书程序员专题: http://www.jianshu.com/collection/NEt52a
     + 开发者头条: http://toutiao.io/
     + 掘金: http://gold.xitu.io/explore/all
+    + Hackr.i0: https://hackr.io
     
   - 各大名校的公开课
     + 网易云课堂大学计算机课程: http://study.163.com/curricula/cs.htm
@@ -31,8 +32,6 @@
     + 哈佛大学公开课-计算机科学cs50: http://open.163.com/special/opencourse/cs50.html
     + 麻省理工学院公开课-计算机科学及编程导论: http://open.163.com/special/opencourse/bianchengdaolun.html
     
-  - 学习路线和方法
-    + 编程入门指南: https://zhuanlan.zhihu.com/p/19959253
 
   - 微信公众号/订阅号
     + 菜鸟教程: runoob
@@ -60,6 +59,8 @@
     + 极客标签: http://www.gbtags.com
     + 前端观察: https://www.qianduan.net
     + 前端里: http://www.yyyweb.com/front
+    + AST Explorer: http://astexplorer.net
+    + CSS-Tricks: https://css-tricks.com
     - 前端教程文档
       + ES5: http://es5.github.io
       + ES5中文:  https://www.w3.org/html/ig/zh/wiki/ES5
