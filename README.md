@@ -59,7 +59,7 @@
     + 极客标签: http://www.gbtags.com
     + 前端观察: https://www.qianduan.net
     + 前端里: http://www.yyyweb.com/front
-    + AST Explorer: http://astexplorer.net
+    + AST Explorer: http://astexplorer.net
     + CSS-Tricks: https://css-tricks.com
     - 前端教程文档
       + ES5: http://es5.github.io
