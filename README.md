@@ -61,6 +61,7 @@
     + 前端里: http://www.yyyweb.com/front
     + AST Explorer: http://astexplorer.net
     + CSS-Tricks: https://css-tricks.com
+    + Awesomes: https://www.awesomes.cn
     - 前端教程文档
       + ES5: http://es5.github.io
       + ES5中文:  https://www.w3.org/html/ig/zh/wiki/ES5
