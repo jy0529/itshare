@@ -11,8 +11,8 @@
     + FreeCodeCamp中文: https://www.freecodecamp.cn/
     + 汇智网: http://www.hubwiz.com
     + 实验楼: http://www.shiyanlou.com
-    + 计蒜客: https://www.jisuanke.com/
-    + CSDN知识库: http://lib.csdn.net/
+    + 计蒜客: https://www.jisuanke.com/
+    + CSDN知识库: http://lib.csdn.net/
     + GitBook: https://www.gitbook.com
     + 看云文档: http://www.kancloud.cn
     + 博客园:http://www.cnblogs.com/
@@ -21,6 +21,7 @@
     + 简书程序员专题: http://www.jianshu.com/collection/NEt52a
     + 开发者头条: http://toutiao.io/
     + 掘金: http://gold.xitu.io/explore/all
+    + 掘金翻译计划: https://github.com/xitu/gold-miner
     + 开源中国: https://www.oschina.net/
     + OpenDigg: http://www.opendigg.com/
     + V2EX: https://www.v2ex.com/
@@ -29,7 +30,7 @@
     + HackerNews: https://news.ycombinator.com/
     + codementor: www.codementor.io
     + 众成翻译: http://zcfy.cc/
-    + 掘金翻译计划: https://github.com/xitu/gold-miner
+
     
   - **各大名校的公开课**
     + 网易云课堂大学计算机课程: http://study.163.com/curricula/cs.htm
